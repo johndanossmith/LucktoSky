@@ -52,16 +52,18 @@ please visite  <a style="" href=""></a>
         <td><img src="./public/6.png"/></td>
     </tr>
     <tr>
-        <td><img src="./public/7.png"/></td>
+        <td><img src="./public/7.GIF"/></td>
         <td><img src="./public/8.png"/></td>
         <td><img src="./public/9.png"/></td>
     </tr>
     <tr>
-        <td><img src="./public/10.gif"/></td>
+        <td><img src="./public/10.GIF"/></td>
         <td><img src="./public/11.png"/></td>
         <td>
-            <img src="./public/12.png"/>
-            <img src="./public/13.png"/>
+            <tr>
+                <td><img src="./public/12.png"/></td>
+                <td><img src="./public/13.png"/></td>
+            </tr>
         </td>
     </tr>
 </table>
