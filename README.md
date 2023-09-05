@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **LucktoSky/LucktoSky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align: center;">Hello everyone</h1>
-please visite  <a style="" href=""></a>
+<h1 style="text-align: center;">👋 Hello everyone 👋</h1>
+<h4> please visite  <a style="" href="https://lucktosky.github.io/luck/">https://lucktosky.github.io/luck/</a></h4>
 <p>I am a Full Stack Developer with five years of professional experience, specializing in web development, project management, agile methodology, and quality assurance testing. Adept at coordinating effectively with development teams, clients, and nontechnical stakeholders to execute complex web development projects. </p>
 <table>
     <tr>
