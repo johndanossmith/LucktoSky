@@ -1,3 +1,8 @@
+<style>
+    h1{
+        color:red
+    }
+</style>
 ### Hi there 👋
 
 <!--
@@ -14,6 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 style="text-align: center;">Hello everyone</h1>
 please visite  <a style="" href=""></a>
 <p>I am a Full Stack Developer with five years of professional experience, specializing in web development, project management, agile methodology, and quality assurance testing. Adept at coordinating effectively with development teams, clients, and nontechnical stakeholders to execute complex web development projects. </p>
