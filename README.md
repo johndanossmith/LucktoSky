@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 
 ✨ I enjoy learning new technologies and am constantly seeking opportunities to expand my skillset.
 
-- 🔭 I’m currently working on [Business Website Deveopment](https://github.com/seniorcoder72)  
   
 - 🌱 I’m currently building business websites using Next.js, Typescript, Tailwind CSS.  
   
