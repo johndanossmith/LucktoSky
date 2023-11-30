@@ -44,17 +44,14 @@ Here are some ideas to get you started:
 ## My past work
 <table>
     <tr>
-        <td><img src="./public/7.gif"/></td>
         <td><img src="./public/5.png"/></td>
         <td><img src="./public/6.png"/></td>
     </tr>
     <tr>
-        <td><img src="./public/4.png"/></td>
         <td><img src="./public/8.png"/></td>
         <td><img src="./public/9.png"/></td>
     </tr>
     <tr>
-        <td><img src="./public/10.gif"/></td>
         <td><img src="./public/11.png"/></td>
         <td><img src="./public/12.png"/></td>
     </tr>
